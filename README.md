@@ -1,7 +1,7 @@
 # Projeto Visão Computacional
 
 ## Objetivo
-- Projeto final da disciplina de visão computacional, o intuito desta aplicação será 
+- Projeto final da disciplina de visão computacional, o intuito desta aplicação será para manipulação de sistema de multimidia, com enfâse e vídeo/música
 
 ### Equipe: 
 - Henrique Lira
@@ -22,4 +22,4 @@
 - Mover a mão para a direita (pula o vídeo em 10 segundos)
 - Mover a mão para esquerda (volta o vídeo em 10 segundos)
 - Mover a mão para acima (Aumenta o volume)
-- Mover a mão para a cima (Aumentar o volume)
+- Mover a mão para baixo (Diminuir o volume)
